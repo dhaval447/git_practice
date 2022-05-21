@@ -13,6 +13,10 @@ int main(){
 	std::cout << "added line2 after clonning for ssh" << std::endl;
 	std::cout << "added feature1 from dhaval491" << endl;
 	print_branch();
+	// commit1 for squash 
+	// commit2 for sqaush
+	// commit3 for squash
+	// commit4 for squash
 	std::cout << "added feature2 better than dhaval447 by dhaval491" << end;
 	return 0;
  }
