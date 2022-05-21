@@ -11,5 +11,7 @@ int main(){
 	std::cout << "added feature between f1 and f3" << endl;
 	std::cout << "added a missing feature" << endl;
 	std::cout << "added feature2 better than dhaval447 by dhaval491" << end;
+	std::cout << "added f4" << std::endl;
+	std::cout << "added f6" << std:endl;
 	return 0;
  }
